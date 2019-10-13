@@ -1,8 +1,6 @@
 function setup() {
   createCanvas(400, 400);
   ellipseMode(CENTER);
-  var x = []; 
-  var y = []; 
 }
 
 function draw() {
