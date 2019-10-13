@@ -19,3 +19,4 @@ function draw() {
   for (var i = 10; i <= 200; i = i + 10) {
     line(200, 400-i, 200-i, 400-i);
   }
+ }
